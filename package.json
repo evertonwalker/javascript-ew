@@ -1,0 +1,21 @@
+{
+  "name": "javascript-ew",
+  "version": "1.0.0",
+  "description": "Projeto feito com base no curso do Erick Wendell sobre Js",
+  "main": "index.js",
+  "scripts": {
+    "hello-world": "node index.js",
+    "callback": "node ./aula-2-call-back/call-index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evertonwalker/javascript-ew.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evertonwalker/javascript-ew/issues"
+  },
+  "homepage": "https://github.com/evertonwalker/javascript-ew#readme"
+}
