@@ -2,7 +2,10 @@
     0 - Obter um usuário
     1 - Obter o númer de telefone de um usuário pelo ID
     2 - Obter o endereço do usuário pelo ID
+
+
 */
+
 
 function obterUsuario(callback) {
     setTimeout(() => {
@@ -32,7 +35,6 @@ function obterEndereco(idUsuario, callback) {
             cidade: 'jordão alto'
         })
     }, 200);
-
 }
 
 obterUsuario(function resolverUsuario(erro, usuario) {
