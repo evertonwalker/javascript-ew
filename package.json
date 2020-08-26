@@ -6,6 +6,7 @@
   "scripts": {
     "hello-world": "node index.js",
     "callback": "node ./aula-2-call-back/call-index.js",
+    "async-await": "node ./aula-2-async-await/async-await.js",
     "promise": "node ./aula-2-promises/promises.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
