@@ -9,6 +9,7 @@
     "async-await": "node ./aula-2-async-await/async-await.js",
     "promise": "node ./aula-2-promises/promises.js",
     "event-emitter": "node ./aula-2-event-emmiter/event-emitter.js",
+    "familia-for": "node ./aula-3-manipulando-listas/familia-for.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/evertonwalker/javascript-ew/issues"
   },
-  "homepage": "https://github.com/evertonwalker/javascript-ew#readme"
+  "homepage": "https://github.com/evertonwalker/javascript-ew#readme",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
 }
