@@ -10,6 +10,7 @@
     "promise": "node ./aula-2-promises/promises.js",
     "event-emitter": "node ./aula-2-event-emmiter/event-emitter.js",
     "familia-for": "node ./aula-3-manipulando-listas/familia-for.js",
+    "map": "node ./aula-3-manipulando-listas/map.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
