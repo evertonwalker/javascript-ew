@@ -13,7 +13,7 @@
     "map": "node ./aula-3-manipulando-listas/map.js",
     "filter": "node ./aula-3-manipulando-listas/filter.js",
     "reduce": "node ./aula-3-manipulando-listas/reduce.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node ./aula-4-testes/teste.js"
   },
   "repository": {
     "type": "git",
@@ -26,6 +26,10 @@
   },
   "homepage": "https://github.com/evertonwalker/javascript-ew#readme",
   "dependencies": {
-    "axios": "^0.20.0"
+    "axios": "^0.20.0",
+    "nock": "^13.0.4"
+  },
+  "devDependencies": {
+    "mocha": "^8.1.3"
   }
 }
